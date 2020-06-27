@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b036237-9701-4153-a690-41966e4d9a40" name="Default Changelist" comment="" />
+    <list default="true" id="c5021072-5362-4823-bdd6-39ef66621660" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/academy/pocu/comp2500/lab3/ListItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1dtzIg8uz0DNJObHll5CXxmZ0Hv" />
+  <component name="ProjectId" id="1du1T0Pfy8km81WXl4R78YAfYAi" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -35,18 +38,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7b036237-9701-4153-a690-41966e4d9a40" name="Default Changelist" comment="" />
-      <created>1593259098844</created>
+      <changelist id="c5021072-5362-4823-bdd6-39ef66621660" name="Default Changelist" comment="" />
+      <created>1593260168011</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593259098844</updated>
+      <updated>1593260168011</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="516" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593259526583">
-      <screen x="0" y="23" width="1680" height="981" />
-    </state>
-    <state x="516" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.981@0.23.1680.981" timestamp="1593259526583" />
   </component>
 </project>
