@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b036237-9701-4153-a690-41966e4d9a40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/pocu/comp2500/lab2/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/pocu/comp2500/lab2/memo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/pocu/comp2500/lab2/ComplexNumber1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/pocu/comp2500/lab2/ComplexNumber2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
